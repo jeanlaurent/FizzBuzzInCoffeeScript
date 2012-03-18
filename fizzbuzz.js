@@ -1,3 +1,3 @@
 require("coffee-script");
-require("./lib/fizzbuzz").runTest();
+require("./lib/fizzbuzzTests").runAllTest();
 
